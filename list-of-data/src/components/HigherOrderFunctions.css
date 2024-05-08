@@ -1,0 +1,14 @@
+.display-box {
+    border: 1px solid black;
+    color: blue;
+    text-align: center;
+    
+}
+
+.list-elements {
+    list-style-type: none;
+}
+
+.list-elements span {
+    padding: 10px;
+}
